@@ -15,7 +15,7 @@ header{
 header::before{
     content: "";
     position: absolute;
-    background-image: url('./Images/header.png');
+    background-image: url('./header.png');
     background-position: center;
     width: 100%;
     background-repeat: no-repeat;
@@ -190,7 +190,7 @@ header::before{
 }
 #contacts::before{
     content: "";
-    background-image: url('contactBackground.png');
+    background-image: url('./contactBackground.png');
     z-index: -1;
     width: 100%;
     height: 100%;
