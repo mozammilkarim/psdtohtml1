@@ -190,7 +190,7 @@ header::before{
 }
 #contacts::before{
     content: "";
-    background-image: url('./Images/contactBackground.png');
+    background-image: url('contactBackground.png');
     z-index: -1;
     width: 100%;
     height: 100%;
